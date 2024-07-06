@@ -1,4 +1,4 @@
-[![MasterHead]([https://d3lkc3n5th01x7.cloudfront.net/wp-content/uploads/2023/11/07002655/Machine-Learning-Services-banner.png](https://thumbs.dreamstime.com/b/concept-commercial-background-image-topic-machine-learning-banner-advertising-generative-ai-312417794.jpg?w=992))]
+[![MasterHead](https://thumbs.dreamstime.com/b/concept-commercial-background-image-topic-machine-learning-banner-advertising-generative-ai-312417794.jpg?w=992)]
 <h1 align="center">Hi 👋, I'm Rajesh Kumar</h1>
 <h3 align="center">Rajesh | Master's in Machine Learning @ NIT Karnataka | Machine Learning Engineer | Full-Stack Developer</h3>
 <img align ="right" alt ="Coding" width="400" src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
