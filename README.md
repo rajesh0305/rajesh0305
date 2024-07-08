@@ -1,4 +1,8 @@
 [![MasterHead](https://thumbs.dreamstime.com/b/concept-commercial-background-image-topic-machine-learning-banner-advertising-generative-ai-312417794.jpg?w=992)]
+About Me:
+I'm a passionate data scientist with a knack for predictive analytics, specializing in recurrent neural networks (RNN) and LSTM models. I thrive on tackling regression tasks and exploring the fascinating realm of reinforcement learning (RL). Additionally, I have a strong foundation in classical machine learning and possess the requisite mathematical prowess.
+
+Currently, I'm delving into the realms of decentralized finance (DeFi) and web3, where I'm actively engaged in crafting and analyzing smart contracts. During my leisure time, you'll find me honing my problem-solving skills on LeetCode and participating in CTF challenges.
 <h1 align="center">Hi 👋, I'm Rajesh Kumar</h1>
 <h3 align="center">Rajesh | Master's in Machine Learning @ NIT Karnataka | Machine Learning Engineer | Full-Stack Developer</h3>
 <img align ="right" alt ="Coding" width="400" src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
