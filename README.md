@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mle_rajesh0305" target="blank"><img src="https://img.shields.io/twitter/follow/mle_rajesh0305?logo=twitter&style=for-the-badge" alt="mle_rajesh0305" /></a> </p>
 
-- 🔭 I’m currently working on **Taxi Demand Prediction in New York City**
+- 🔭 I’m currently working on **LLMs Models**
 
 - 🌱 I’m currently learning **AWS,Full Stack Development**
 
