@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **LLMs Models**
 
-- 🌱 I’m currently learning **AWS,Full Stack Development**
+- 🌱 I’m currently learning **Agentic AI**
 
 - 💬 Ask me about **Machine Learning,DataStructure,Java,Algorithm,SQL,C**
 
